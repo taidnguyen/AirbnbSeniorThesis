@@ -14,7 +14,8 @@ Code requires data to run.
 
 * Zillow Research: https://www.zillow.com/research/
 
-* Final paper: https://scholarship.tricolib.brynmawr.edu/handle/10066/21740
+
+Final paper: https://scholarship.tricolib.brynmawr.edu/handle/10066/21740
 
 ## Authors
 
