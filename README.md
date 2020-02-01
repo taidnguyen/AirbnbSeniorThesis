@@ -1,5 +1,7 @@
 # Impact of Airbnb in New York City
 
+![Figure3b](https://user-images.githubusercontent.com/16988147/73585303-fe7dc200-446d-11ea-97df-fcd00ba67b85.png)
+
 Paper useses Airbnb data 2015-2018 to study the impact of home sharing on hotel, rental, and social welfare in New York City.
 
 Code requires data to run.
