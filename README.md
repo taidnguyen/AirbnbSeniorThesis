@@ -1,4 +1,4 @@
-# Impact of Airbnb in New York City
+# Studying Airbnb in New York City
 
 ![Figure3b](https://user-images.githubusercontent.com/16988147/73585303-fe7dc200-446d-11ea-97df-fcd00ba67b85.png)
 
