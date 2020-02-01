@@ -1,4 +1,4 @@
-# Study the Impact of Airbnb in New York City
+# Impact of Airbnb in New York City
 
 Paper useses Airbnb data 2015-2018 to study the impact of home sharing on hotel, rental, and social welfare in New York City.
 
