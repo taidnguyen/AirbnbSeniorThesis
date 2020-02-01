@@ -4,6 +4,8 @@ Paper useses Airbnb data 2015-2018 to study the impact of home sharing on hotel,
 
 Code requires data to run.
 
+Final paper: https://scholarship.tricolib.brynmawr.edu/handle/10066/21740
+
 ## Data sources: 
 
 * Inside Airbnb (web-scraped data): http://insideairbnb.com/
@@ -13,9 +15,6 @@ Code requires data to run.
 * StreetEasy: https://streeteasy.com/blog/data-dashboard/
 
 * Zillow Research: https://www.zillow.com/research/
-
-
-Final paper: https://scholarship.tricolib.brynmawr.edu/handle/10066/21740
 
 ## Authors
 
