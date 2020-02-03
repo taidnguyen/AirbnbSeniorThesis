@@ -5,7 +5,7 @@ library(dplyr)
 library(lubridate) ##for date fuctions
 library(stargazer) ##for nice regression & export to Latex
 library(zoo)
-library(reshape2)
+library(reshape2) 
 library(ggplot2)
 library(MASS)
 library(alr3)
